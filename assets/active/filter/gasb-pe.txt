@@ -1,0 +1,9 @@
+# gasb-pe Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/GASB-PE.active.txt
+# Last Converted - 27.09.2018
+# Total Domains - 0
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: CC BY-NC-SA 4.0; https://energized.pro/license
+
