@@ -384,7 +384,7 @@ echo "$headerLogoAB
 ! $dividerTiny
 ! P A C K  D E T A I L S
 ! $dividerTiny
-! Package: $packName
+! Title: $packName
 ! Description: $packDesc
 ! Format: adblock
 ! Version: $buildVersion
