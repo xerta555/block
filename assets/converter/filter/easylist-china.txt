@@ -1,8 +1,8 @@
 # easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last Converted - 27.09.2018
-# Total Domains - 3568
+# Last Converted - 28.09.2018
+# Total Domains - 3570
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -174,6 +174,7 @@
 0.0.0.0 217wo.com
 0.0.0.0 21shebao.com
 0.0.0.0 22.qingsongbar.com
+0.0.0.0 222im.com
 0.0.0.0 22lm.cc
 0.0.0.0 2345.com
 0.0.0.0 235123.net
@@ -231,7 +232,6 @@
 0.0.0.0 39xc.net
 0.0.0.0 3alian.net
 0.0.0.0 3boys2girls.com
-0.0.0.0 3dm.huya.com
 0.0.0.0 3dwwwgame.com
 0.0.0.0 3g.990.net
 0.0.0.0 3gmtr.com
@@ -1476,6 +1476,7 @@
 0.0.0.0 gb.it1352.com
 0.0.0.0 gcaij.com
 0.0.0.0 gcfx777.com
+0.0.0.0 gcheg.com
 0.0.0.0 gclick.cn
 0.0.0.0 gd.vodtw.com
 0.0.0.0 gdbly.com
@@ -3029,6 +3030,7 @@
 0.0.0.0 v.xi666.com
 0.0.0.0 v707070.com
 0.0.0.0 vamaker.com
+0.0.0.0 vbaiu.com
 0.0.0.0 vbaou.com
 0.0.0.0 vbieu.com
 0.0.0.0 vbinu.com

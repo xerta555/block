@@ -1,8 +1,8 @@
 # fanboy-ultimate Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
-# Last Converted - 27.09.2018
-# Total Domains - 24557
+# Last Converted - 28.09.2018
+# Total Domains - 24578
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -6064,6 +6064,7 @@
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
 0.0.0.0 d3q2dpprdsteo.cloudfront.net
+0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3qszud4qdthr8.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
@@ -6445,6 +6446,7 @@
 0.0.0.0 dgmsearchlab.com
 0.0.0.0 dgnjovmuao.bid
 0.0.0.0 dgnqzxsw.bid
+0.0.0.0 dgnuumyxpqiget.com
 0.0.0.0 dgufzszbsk.bid
 0.0.0.0 dgulomuzgkyjhe.bid
 0.0.0.0 dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
@@ -6589,6 +6591,7 @@
 0.0.0.0 djrkauxla.bid
 0.0.0.0 djtclldgsocbv.bid
 0.0.0.0 djuxmbjauluis.com
+0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 djxvususwvso.com
 0.0.0.0 djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 0.0.0.0 dk-statistik.de
@@ -7584,6 +7587,7 @@
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 etherealhakai.com
+0.0.0.0 ethfw0370q.com
 0.0.0.0 ethn.io
 0.0.0.0 ethnio.com
 0.0.0.0 ethtrader.de
@@ -8955,6 +8959,7 @@
 0.0.0.0 getkudos.me
 0.0.0.0 getmailcounter.com
 0.0.0.0 getmyads.com
+0.0.0.0 getmyimg.online
 0.0.0.0 getpopunder.com
 0.0.0.0 getresponse.com
 0.0.0.0 gets-web.space
@@ -10278,6 +10283,7 @@
 0.0.0.0 id.localsearch.ch
 0.0.0.0 idbxnzgmn.com
 0.0.0.0 idcoyhwzthhjv.com
+0.0.0.0 iddvmkxme.com
 0.0.0.0 ideal-sexe.com
 0.0.0.0 idealgasm.com
 0.0.0.0 idealmedia.com
@@ -12410,6 +12416,7 @@
 0.0.0.0 lkfuihubbros.com
 0.0.0.0 lkgcdedbklfse.com
 0.0.0.0 lkjmcevfgoxfbyhhmzambtzydolhmeelgkotdllwtfshrkhrev.com
+0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 lkktkgcpqzwd.com
 0.0.0.0 lkqd.net
 0.0.0.0 lkrcapch.com
@@ -14657,6 +14664,7 @@
 0.0.0.0 oaogilidstvm.bid
 0.0.0.0 oaqaxjmyuxkpm.com
 0.0.0.0 oaqwxxjhwpyxjd.com
+0.0.0.0 oarqgvtkco.com
 0.0.0.0 oas.autotrader.co.uk
 0.0.0.0 oas.luxweb.com
 0.0.0.0 oas.skyscanner.net
@@ -16340,6 +16348,7 @@
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 prtjzzyfi.com
 0.0.0.0 prtracker.com
+0.0.0.0 prulogzjtyksnh.com
 0.0.0.0 prunwxph.bid
 0.0.0.0 prwlzpyschwi.com
 0.0.0.0 prxio.github.io
@@ -17656,6 +17665,7 @@
 0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rlex.org
+0.0.0.0 rlgungosm.com
 0.0.0.0 rlhdzilsgvwu.bid
 0.0.0.0 rlinks.one.in
 0.0.0.0 rllvjujeyeuy.com
@@ -18214,6 +18224,7 @@
 0.0.0.0 secretmedia.com
 0.0.0.0 secretmedia.s3.amazonaws.com
 0.0.0.0 secretrune.com
+0.0.0.0 sectivity.mobi
 0.0.0.0 secumine.net
 0.0.0.0 secure-pixel.com
 0.0.0.0 secure-softwaremanager.com
@@ -19730,6 +19741,7 @@
 0.0.0.0 sxiyvcqnp.com
 0.0.0.0 sxjhskptisd.com
 0.0.0.0 sxlzcvqfeacy.com
+0.0.0.0 sxmmgiuilt.com
 0.0.0.0 sxprcyzcpqil.com
 0.0.0.0 sxrrxa.net
 0.0.0.0 sxrwqytqajwpt.com
@@ -20276,6 +20288,7 @@
 0.0.0.0 tiswsdusmdig.com
 0.0.0.0 titag.com
 0.0.0.0 titanbrowser.com
+0.0.0.0 titranco.info
 0.0.0.0 titsbro.net
 0.0.0.0 titsbro.org
 0.0.0.0 titsbro.pw
@@ -20381,6 +20394,7 @@
 0.0.0.0 tnkrspdmhdmrfn.bid
 0.0.0.0 tnlfupvrlr.com
 0.0.0.0 tnllizzqv.bid
+0.0.0.0 tnlshxmc.com
 0.0.0.0 tnmzfygctupqr.bid
 0.0.0.0 tnpbbdrvwwip.com
 0.0.0.0 tns-counter.ru
@@ -22422,6 +22436,7 @@
 0.0.0.0 vwdrpxmgehqknz.com
 0.0.0.0 vwgffbknpgxe.com
 0.0.0.0 vwimfzntn.bid
+0.0.0.0 vwkyuawm.com
 0.0.0.0 vwpowhxrpdlmtq.bid
 0.0.0.0 vwpoxvufxnon.com
 0.0.0.0 vwsjyfsz.bid
@@ -22810,6 +22825,7 @@
 0.0.0.0 wgkurvzvd.com
 0.0.0.0 wglbionuopeh.com
 0.0.0.0 wgpartner.com
+0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgreatdream.com
 0.0.0.0 wgroobsxrnijg.com
 0.0.0.0 wgssxjoac.com
@@ -23164,6 +23180,7 @@
 0.0.0.0 wstfgpdmb.bid
 0.0.0.0 wsxqgzalf.com
 0.0.0.0 wsyuiudkoqrf.com
+0.0.0.0 wszpjhuosjeexj.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt-safetag.com
 0.0.0.0 wtdivwvldpykn.bid
@@ -23742,6 +23759,7 @@
 0.0.0.0 ybemuzknpvkgn.bid
 0.0.0.0 ybgbaxrzxxlr.com
 0.0.0.0 ybhaoglgbgdk.com
+0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 ybhpbkyzbihlrk.bid
 0.0.0.0 ybikaghc.bid
 0.0.0.0 ybmdgyywbhk.com
@@ -23771,6 +23789,7 @@
 0.0.0.0 ycrbzasmjuo.bid
 0.0.0.0 yctquwjbbkfa.com
 0.0.0.0 ycxpmdwail.bid
+0.0.0.0 ycyrgutjregkw.com
 0.0.0.0 yczvwlqexzhtf.bid
 0.0.0.0 yddazzul.com
 0.0.0.0 yddbgolpjwv.bid
@@ -24528,6 +24547,7 @@
 0.0.0.0 zxazzpdvhf.bid
 0.0.0.0 zxbjgrxbcgrp.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxjmybvewmso.com
 0.0.0.0 zxmkvelyft.bid
 0.0.0.0 zxqeycvsetkh.com
@@ -24564,3 +24584,4 @@
 0.0.0.0 zzrdvzryaiwsin.com
 0.0.0.0 zzvjaqnkq.bid
 0.0.0.0 zzwzjidz.bid
+0.0.0.0 zzxosget.com

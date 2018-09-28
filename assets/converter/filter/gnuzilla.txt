@@ -1,8 +1,8 @@
 # gnuzilla Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
-# Last Converted - 27.09.2018
-# Total Domains - 24031
+# Last Converted - 28.09.2018
+# Total Domains - 24052
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -880,6 +880,7 @@
 0.0.0.0 acexedge.com
 0.0.0.0 acf-webmaster.net
 0.0.0.0 achird.xyz
+0.0.0.0 achsijkc.com
 0.0.0.0 acint.net
 0.0.0.0 acjmkenepeyn.com
 0.0.0.0 acknowinge.info
@@ -5952,6 +5953,7 @@
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
 0.0.0.0 d3q2dpprdsteo.cloudfront.net
+0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3qszud4qdthr8.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
@@ -6330,6 +6332,7 @@
 0.0.0.0 dgmsearchlab.com
 0.0.0.0 dgnjovmuao.bid
 0.0.0.0 dgnqzxsw.bid
+0.0.0.0 dgnuumyxpqiget.com
 0.0.0.0 dgufzszbsk.bid
 0.0.0.0 dgulomuzgkyjhe.bid
 0.0.0.0 dgwrxyucxpizivncznkpmdhtrdzyyylpoeitiannqfxmdzpmwx.com
@@ -6472,6 +6475,7 @@
 0.0.0.0 djrkauxla.bid
 0.0.0.0 djtclldgsocbv.bid
 0.0.0.0 djuxmbjauluis.com
+0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 djxvususwvso.com
 0.0.0.0 djzmpsingsrtfsnbnkphyagxdemeagsiabguuqbiqvpupamgej.com
 0.0.0.0 dk-statistik.de
@@ -7453,6 +7457,7 @@
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 etherealhakai.com
+0.0.0.0 ethfw0370q.com
 0.0.0.0 ethn.io
 0.0.0.0 ethnio.com
 0.0.0.0 ethtrader.de
@@ -8791,6 +8796,7 @@
 0.0.0.0 getgscfree.com
 0.0.0.0 getiton.com
 0.0.0.0 getmyads.com
+0.0.0.0 getmyimg.online
 0.0.0.0 getpopunder.com
 0.0.0.0 getresponse.com
 0.0.0.0 gets-web.space
@@ -9858,6 +9864,7 @@
 0.0.0.0 hsnuutxbmmqry.bid
 0.0.0.0 hsnvnmjriom.com
 0.0.0.0 hsoyrqqsludd.com
+0.0.0.0 hsqvofrzwluvns.com
 0.0.0.0 hsslx.com
 0.0.0.0 hstpnetwork.com
 0.0.0.0 hstrck.com
@@ -10093,6 +10100,7 @@
 0.0.0.0 id.localsearch.ch
 0.0.0.0 idbxnzgmn.com
 0.0.0.0 idcoyhwzthhjv.com
+0.0.0.0 iddvmkxme.com
 0.0.0.0 ideal-sexe.com
 0.0.0.0 idealgasm.com
 0.0.0.0 idealmedia.com
@@ -10968,6 +10976,7 @@
 0.0.0.0 jiathis.com
 0.0.0.0 jiawen88.com
 0.0.0.0 jiifnvkesug.com
+0.0.0.0 jiiyddosyv.com
 0.0.0.0 jijcetagjfzo.com
 0.0.0.0 jimdo-stats.com
 0.0.0.0 jingavot.com
@@ -12346,6 +12355,7 @@
 0.0.0.0 logxp.ru
 0.0.0.0 logz.ru
 0.0.0.0 lojqfrcipvoo.bid
+0.0.0.0 lojuxbnt.com
 0.0.0.0 lokipodi.com
 0.0.0.0 lokspeedarma.com
 0.0.0.0 lokvel.ru
@@ -14390,10 +14400,12 @@
 0.0.0.0 oadz.com
 0.0.0.0 oainternetservices.com
 0.0.0.0 oalicqudnfhf.com
+0.0.0.0 oamhzvwle.com
 0.0.0.0 oamrraft.com
 0.0.0.0 oaogilidstvm.bid
 0.0.0.0 oaqaxjmyuxkpm.com
 0.0.0.0 oaqwxxjhwpyxjd.com
+0.0.0.0 oarqgvtkco.com
 0.0.0.0 oas.autotrader.co.uk
 0.0.0.0 oas.luxweb.com
 0.0.0.0 oas.skyscanner.net
@@ -16658,6 +16670,7 @@
 0.0.0.0 quillion.com
 0.0.0.0 quinstreet.com
 0.0.0.0 quintelligence.com
+0.0.0.0 qukqptxilr.com
 0.0.0.0 qulifiad.com
 0.0.0.0 qulsqiqrev.com
 0.0.0.0 qumzxkpexf.com
@@ -17826,6 +17839,7 @@
 0.0.0.0 secretbehindporn.com
 0.0.0.0 secretmedia.com
 0.0.0.0 secretmedia.s3.amazonaws.com
+0.0.0.0 sectivity.mobi
 0.0.0.0 secumine.net
 0.0.0.0 secure-pixel.com
 0.0.0.0 secure-softwaremanager.com
@@ -19820,6 +19834,7 @@
 0.0.0.0 tiswsdusmdig.com
 0.0.0.0 titag.com
 0.0.0.0 titanbrowser.com
+0.0.0.0 titranco.info
 0.0.0.0 titsbro.net
 0.0.0.0 titsbro.org
 0.0.0.0 titsbro.pw
@@ -21938,6 +21953,7 @@
 0.0.0.0 vwdrpxmgehqknz.com
 0.0.0.0 vwgffbknpgxe.com
 0.0.0.0 vwimfzntn.bid
+0.0.0.0 vwkyuawm.com
 0.0.0.0 vwpowhxrpdlmtq.bid
 0.0.0.0 vwpoxvufxnon.com
 0.0.0.0 vwsjyfsz.bid
@@ -22318,6 +22334,7 @@
 0.0.0.0 wgkurvzvd.com
 0.0.0.0 wglbionuopeh.com
 0.0.0.0 wgpartner.com
+0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgreatdream.com
 0.0.0.0 wgroobsxrnijg.com
 0.0.0.0 wgssxjoac.com
@@ -22984,6 +23001,7 @@
 0.0.0.0 xmr6v4yg.faith
 0.0.0.0 xmrpool.net
 0.0.0.0 xmsgobwy.com
+0.0.0.0 xmufoqjx.com
 0.0.0.0 xmwqbnrbvghq.bid
 0.0.0.0 xndskrtxkiv.com
 0.0.0.0 xnjsdpohkgn.com
@@ -23251,6 +23269,7 @@
 0.0.0.0 ycrbzasmjuo.bid
 0.0.0.0 yctquwjbbkfa.com
 0.0.0.0 ycxpmdwail.bid
+0.0.0.0 ycyrgutjregkw.com
 0.0.0.0 yczvwlqexzhtf.bid
 0.0.0.0 yddazzul.com
 0.0.0.0 yddbgolpjwv.bid
@@ -23514,6 +23533,7 @@
 0.0.0.0 yrrcrvoivbv.com
 0.0.0.0 yrrrbn.me
 0.0.0.0 yrt7dgkf.exashare.com
+0.0.0.0 yruwnpnam.com
 0.0.0.0 yrvrppewe.bid
 0.0.0.0 yrxhmallcirx.com
 0.0.0.0 yrzukplqjwxst.bid
@@ -23816,6 +23836,7 @@
 0.0.0.0 zjhnmbfqylme.com
 0.0.0.0 zjjcsdfqewqqi.bid
 0.0.0.0 zjk24.com
+0.0.0.0 zjujxffup.com
 0.0.0.0 zjvlymwonwbp.bid
 0.0.0.0 zjwcddahpz.com
 0.0.0.0 zkduhoyaxw.bid

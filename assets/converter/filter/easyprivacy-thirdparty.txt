@@ -1,7 +1,7 @@
 # easyprivacy-thirdparty Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last Converted - 27.09.2018
+# Last Converted - 28.09.2018
 # Total Domains - 1060
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
