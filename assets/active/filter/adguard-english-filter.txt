@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-english-filter.txt
 # Last Converted - 28.09.2018
-# Total Domains - 11753
+# Total Domains - 11756
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -6371,6 +6371,7 @@
 0.0.0.0 lp.ncdownloader.com
 0.0.0.0 lp.titanpoker.com
 0.0.0.0 lpohfjht.com
+0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lpwre.top
 0.0.0.0 lpxxafsupgsho.com
 0.0.0.0 lqcdn.com
@@ -11739,6 +11740,7 @@
 0.0.0.0 zxafncddmww.com
 0.0.0.0 zxavxgjcjmkh.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxreyuxvrjzxa.com
 0.0.0.0 zxwiejfbyr.com
 0.0.0.0 zxxds.net
@@ -11760,3 +11762,4 @@
 0.0.0.0 zzmyypjedpfxck.com
 0.0.0.0 zzoxzkpqmklr.com
 0.0.0.0 zzrdvzryaiwsin.com
+0.0.0.0 zzxosget.com

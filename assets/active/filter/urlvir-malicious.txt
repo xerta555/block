@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.urlvir.com/export-hosts
 # Last Converted - 28.09.2018
-# Total Domains - 740
+# Total Domains - 741
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -385,6 +385,7 @@
 0.0.0.0 janniekristiansen.dk
 0.0.0.0 jdih.purworejokab.go.id
 0.0.0.0 jitkla.com
+0.0.0.0 jjamr.com
 0.0.0.0 jlglass.com
 0.0.0.0 jobarba.com
 0.0.0.0 jobsupdate.in

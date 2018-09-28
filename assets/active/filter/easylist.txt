@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easylist.txt
 # Last Converted - 28.09.2018
-# Total Domains - 10487
+# Total Domains - 10488
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -1466,6 +1466,7 @@
 0.0.0.0 aocular.com
 0.0.0.0 aodqhrwbaky.com
 0.0.0.0 aohonqhbhuljz.com
+0.0.0.0 aonxktnn.com
 0.0.0.0 aoredi.com
 0.0.0.0 aorms.com
 0.0.0.0 aorpum.com

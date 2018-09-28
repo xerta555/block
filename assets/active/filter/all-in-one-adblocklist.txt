@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/all-in-one-adblocklist.txt
 # Last Converted - 28.09.2018
-# Total Domains - 41658
+# Total Domains - 41660
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -22740,6 +22740,7 @@
 0.0.0.0 lporirxe.com
 0.0.0.0 lpoxyhmc.pw
 0.0.0.0 lppm.unida.gontor.ac.id
+0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lptracker.ru
 0.0.0.0 lpwre.top
 0.0.0.0 lpxxafsupgsho.com
@@ -41634,6 +41635,7 @@
 0.0.0.0 zxavxgjcjmkh.com
 0.0.0.0 zxciuniqhweizsds.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxreyuxvrjzxa.com
 0.0.0.0 zxwiejfbyr.com
 0.0.0.0 zxxds.net
