@@ -1,8 +1,8 @@
 # spam404.com-main-blacklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-# Last Converted - 27.09.2018
-# Total Domains - 3767
+# Last Converted - 28.09.2018
+# Total Domains - 3759
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -696,7 +696,6 @@
 0.0.0.0 csgoforces.com
 0.0.0.0 csgofoster.com
 0.0.0.0 csgofuncase.com
-0.0.0.0 csgofuture.net
 0.0.0.0 csgogem.trade
 0.0.0.0 csgogivers.com
 0.0.0.0 csgogorila.com
@@ -778,13 +777,11 @@
 0.0.0.0 csgoupgrader.info
 0.0.0.0 csgouranus.com
 0.0.0.0 csgousp.com
-0.0.0.0 csgovabank.com
 0.0.0.0 csgovenge.com
 0.0.0.0 csgovex.com
 0.0.0.0 csgoweaponskins.net
 0.0.0.0 csgowild.com
 0.0.0.0 csgowildz.com
-0.0.0.0 csgowinpot.net
 0.0.0.0 csgozone.co.uk
 0.0.0.0 csgozones.net
 0.0.0.0 csground.com
@@ -946,7 +943,6 @@
 0.0.0.0 dr3crack.dlcodes.com
 0.0.0.0 dragon-city-hack.com
 0.0.0.0 dragon-cityhack.com
-0.0.0.0 dragonballzonline.net
 0.0.0.0 dragonballzstream.com
 0.0.0.0 dragonborn.dlcodes.com
 0.0.0.0 dragoncity.cooldownloadz.com
@@ -1059,7 +1055,6 @@
 0.0.0.0 examplecase.org
 0.0.0.0 excellenthacks.com
 0.0.0.0 excellentmovies.net
-0.0.0.0 exchangeskin.pro
 0.0.0.0 exclusividadesvip.es
 0.0.0.0 exgrafix.com
 0.0.0.0 exorcist.thenudistnetwork.com
@@ -1931,7 +1926,6 @@
 0.0.0.0 hacklot.com
 0.0.0.0 hackmobilegames.com
 0.0.0.0 hackmyapps.com
-0.0.0.0 hackncheatshouse.win
 0.0.0.0 hacknosurvey.org
 0.0.0.0 hackntool.com
 0.0.0.0 hackntricks.net
@@ -2019,7 +2013,6 @@
 0.0.0.0 hackworld.biz
 0.0.0.0 hackxgames.com
 0.0.0.0 hackzs.com
-0.0.0.0 halo4.console2pc.info
 0.0.0.0 haltgame.com
 0.0.0.0 haqable.com
 0.0.0.0 hardcorehacks.com
@@ -3129,7 +3122,6 @@
 0.0.0.0 skinshowl.com
 0.0.0.0 skinshub.net
 0.0.0.0 skinsjar-trade.net
-0.0.0.0 skinsjar.gg
 0.0.0.0 skinsknight.com
 0.0.0.0 skinslegends.com
 0.0.0.0 skinsmade.com

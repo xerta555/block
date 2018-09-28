@@ -1,8 +1,8 @@
 # airelle-pub Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
-# Last Converted - 27.09.2018
-# Total Domains - 74630
+# Last Converted - 28.09.2018
+# Total Domains - 74629
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -44732,7 +44732,6 @@
 0.0.0.0 impotenza1.myblog.it
 0.0.0.0 imppl.tradedoubler.com
 0.0.0.0 impresalavoro.it
-0.0.0.0 imprese.cz
 0.0.0.0 impresionesweb.com
 0.0.0.0 impression.adcenter.infolinks.com
 0.0.0.0 impressionaffiliate.com

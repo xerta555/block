@@ -1,8 +1,8 @@
 # hexxium-creations-threat-list Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/hexxium-creations-threat-list.txt
-# Last Converted - 27.09.2018
-# Total Domains - 980
+# Last Converted - 28.09.2018
+# Total Domains - 982
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -146,6 +146,7 @@
 0.0.0.0 cpaswag.com
 0.0.0.0 cpbld.co
 0.0.0.0 crack2games.com
+0.0.0.0 crackswall.com
 0.0.0.0 credentialmanager.review
 0.0.0.0 creditscheat.com
 0.0.0.0 critical-failure-alert0079.48mn19047307.kw15pdy8xzt4es2man.bid
@@ -782,6 +783,7 @@
 0.0.0.0 skinstate.com
 0.0.0.0 skinswiz.com
 0.0.0.0 skinszone.net
+0.0.0.0 slateee.com
 0.0.0.0 sloopenarishanik.xyz
 0.0.0.0 smallandprecise2upgradesnew.stream
 0.0.0.0 smartbotpro.com

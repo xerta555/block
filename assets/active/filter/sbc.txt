@@ -1,8 +1,8 @@
 # sbc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
-# Last Converted - 27.09.2018
-# Total Domains - 48268
+# Last Converted - 28.09.2018
+# Total Domains - 48266
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -1361,7 +1361,6 @@
 0.0.0.0 abz.com
 0.0.0.0 ac-feedback.com
 0.0.0.0 ac-gb.mgid.com
-0.0.0.0 ac-nb.marketgid.com
 0.0.0.0 ac-transfer.com
 0.0.0.0 ac.ajur.info
 0.0.0.0 ac.atpanel.com
@@ -20731,7 +20730,6 @@
 0.0.0.0 import.globalsources.com
 0.0.0.0 imppl.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
-0.0.0.0 imprese.cz
 0.0.0.0 impresionesweb.com
 0.0.0.0 impressionaffiliate.com
 0.0.0.0 impressionmedia.cz

@@ -1,7 +1,7 @@
 # pornaway Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
-# Last Converted - 27.09.2018
+# Last Converted - 28.09.2018
 # Total Domains - 26758
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

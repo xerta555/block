@@ -1,7 +1,7 @@
 # neohost Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts.nfz.moe/full/hosts
-# Last Converted - 27.09.2018
+# Last Converted - 28.09.2018
 # Total Domains - 3079
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

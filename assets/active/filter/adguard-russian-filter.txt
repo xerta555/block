@@ -1,8 +1,8 @@
 # adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-russian-filter.txt
-# Last Converted - 27.09.2018
-# Total Domains - 2721
+# Last Converted - 28.09.2018
+# Total Domains - 2722
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -2712,6 +2712,7 @@
 0.0.0.0 zdorovmagazine.ru
 0.0.0.0 zdrawnews.ru
 0.0.0.0 zedinfo.info
+0.0.0.0 zenadservices.net
 0.0.0.0 zgvvx.com
 0.0.0.0 zipmonster.biz
 0.0.0.0 znbdr.com

@@ -1,8 +1,8 @@
 # adguard-dns Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-dns.txt
-# Last Converted - 27.09.2018
-# Total Domains - 16349
+# Last Converted - 28.09.2018
+# Total Domains - 16364
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -609,6 +609,7 @@
 0.0.0.0 acetrk.com
 0.0.0.0 acexedge.com
 0.0.0.0 acf-webmaster.net
+0.0.0.0 achsijkc.com
 0.0.0.0 acinster.info
 0.0.0.0 acint.net
 0.0.0.0 acknowinge.info
@@ -618,7 +619,6 @@
 0.0.0.0 acloudimages.com
 0.0.0.0 acloudvideos.com
 0.0.0.0 acq.io
-0.0.0.0 acquia.com
 0.0.0.0 acrabakasaka.com
 0.0.0.0 acrabbey.info
 0.0.0.0 acrididae.com
@@ -2094,7 +2094,6 @@
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.tout.com
-0.0.0.0 analytics.vesti-ukr.com
 0.0.0.0 analytics.vooxe.com
 0.0.0.0 analytics.xyscdn.com
 0.0.0.0 analytics.yahoo.com
@@ -4680,6 +4679,7 @@
 0.0.0.0 degitlwfezpe.com
 0.0.0.0 degotmo.ru
 0.0.0.0 dehardward.com
+0.0.0.0 deiqehvcdnntg.com
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 del-del-ete.com
 0.0.0.0 delightcash.com
@@ -4759,6 +4759,7 @@
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dgmaxinteractive.com
 0.0.0.0 dgmsearchlab.com
+0.0.0.0 dgnuumyxpqiget.com
 0.0.0.0 dgnvmw.xyz
 0.0.0.0 dh0uktvqfaomb.cloudfront.net
 0.0.0.0 dh2xbuwg.com
@@ -5179,6 +5180,7 @@
 0.0.0.0 ebayclassifiedsgroup.com
 0.0.0.0 ebayobjects.com.au
 0.0.0.0 ebazucebid.com
+0.0.0.0 ebbhjxspf.com
 0.0.0.0 ebbldazyvt.com
 0.0.0.0 ebdr3.com
 0.0.0.0 ebeda.info
@@ -6993,6 +6995,7 @@
 0.0.0.0 hsllwumsezanll.com
 0.0.0.0 hsnoamgzlksidfliivb.com
 0.0.0.0 hsnvnmjriom.com
+0.0.0.0 hsqvofrzwluvns.com
 0.0.0.0 hsslx.com
 0.0.0.0 hstpnetwork.com
 0.0.0.0 hsufwxpdtddlh.com
@@ -7059,6 +7062,7 @@
 0.0.0.0 hypersell.ru
 0.0.0.0 hypertrackeraff.com
 0.0.0.0 hypervre.com
+0.0.0.0 hyphenatedion.com
 0.0.0.0 hypoot.com
 0.0.0.0 hyxhxnlqeppn.com
 0.0.0.0 hzfcx.top
@@ -7715,6 +7719,7 @@
 0.0.0.0 jiawen88.com
 0.0.0.0 jigolobasvuru.xyz
 0.0.0.0 jiifnvkesug.com
+0.0.0.0 jiiyddosyv.com
 0.0.0.0 jillsclickcorner.com
 0.0.0.0 jingavot.com
 0.0.0.0 jink.de
@@ -8411,6 +8416,7 @@
 0.0.0.0 lifestyle24h.com
 0.0.0.0 lifewild.ru
 0.0.0.0 liflandaffiliates.com
+0.0.0.0 lift.acquia.com
 0.0.0.0 liftdna.com
 0.0.0.0 liga88.me
 0.0.0.0 ligabklr.com
@@ -8618,6 +8624,7 @@
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logxp.ru
+0.0.0.0 lojuxbnt.com
 0.0.0.0 lokeriklan.com
 0.0.0.0 loki.maximonline.ru
 0.0.0.0 lokipodi.com
@@ -10104,6 +10111,7 @@
 0.0.0.0 oa-stc.zdn.vn
 0.0.0.0 oadz.com
 0.0.0.0 oainternetservices.com
+0.0.0.0 oamhzvwle.com
 0.0.0.0 oamrraft.com
 0.0.0.0 oaqaxjmyuxkpm.com
 0.0.0.0 oaqwxxjhwpyxjd.com
@@ -11595,6 +11603,7 @@
 0.0.0.0 quinstreet.com
 0.0.0.0 quintelligence.com
 0.0.0.0 quisma.com
+0.0.0.0 qukqptxilr.com
 0.0.0.0 qulsqiqrev.com
 0.0.0.0 qumzxkpexf.com
 0.0.0.0 qupiinlyjuf.com
@@ -14525,6 +14534,7 @@
 0.0.0.0 umbel.com
 0.0.0.0 umekana.ru
 0.0.0.0 umrehhye.com
+0.0.0.0 umvgcqaxmie.com
 0.0.0.0 unads.ru
 0.0.0.0 unaiablmgsz.com
 0.0.0.0 unanimis.co.uk
@@ -15227,6 +15237,7 @@
 0.0.0.0 wbpal.com
 0.0.0.0 wbptqzmv.com
 0.0.0.0 wbqnbjsjoxhu.com
+0.0.0.0 wbshrysmjwfplk.com
 0.0.0.0 wbtgigxpzog.com
 0.0.0.0 wbtrk.net
 0.0.0.0 wbvltyeqcu.com
@@ -15382,6 +15393,7 @@
 0.0.0.0 wfyqdhypgmscy.com
 0.0.0.0 wfywchrzpic.com
 0.0.0.0 wgkurvzvd.com
+0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgroobsxrnijg.com
 0.0.0.0 wgssxjoac.com
 0.0.0.0 wgtfdzopmae.com
@@ -15778,6 +15790,7 @@
 0.0.0.0 xmr6v4yg.faith
 0.0.0.0 xmsgobwy.com
 0.0.0.0 xmtrk.com
+0.0.0.0 xmufoqjx.com
 0.0.0.0 xndskrtxkiv.com
 0.0.0.0 xnjsdpohkgn.com
 0.0.0.0 xnkmmbfpyokevaxsjtky.com
@@ -16073,6 +16086,7 @@
 0.0.0.0 yrgnouqinylg.com
 0.0.0.0 yrrcrvoivbv.com
 0.0.0.0 yrsfs.com
+0.0.0.0 yruwnpnam.com
 0.0.0.0 yrxhmallcirx.com
 0.0.0.0 ysbjaya88.org
 0.0.0.0 ysdxcrighudjmw.com
@@ -16237,6 +16251,7 @@
 0.0.0.0 zjejoxqte.com
 0.0.0.0 zjhnmbfqylme.com
 0.0.0.0 zjk24.com
+0.0.0.0 zjujxffup.com
 0.0.0.0 zjwcddahpz.com
 0.0.0.0 zkowrpcb.com
 0.0.0.0 zlacraft.com

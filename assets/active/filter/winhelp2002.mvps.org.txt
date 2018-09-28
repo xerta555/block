@@ -1,8 +1,8 @@
 # winhelp2002.mvps.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
-# Last Converted - 27.09.2018
-# Total Domains - 12137
+# Last Converted - 28.09.2018
+# Total Domains - 12136
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -416,7 +416,6 @@
 0.0.0.0 abs.proxistore.com
 0.0.0.0 abtracker.adultbouncer.com
 0.0.0.0 ac-gb.mgid.com
-0.0.0.0 ac-nb.marketgid.com
 0.0.0.0 ac.ajur.info
 0.0.0.0 ac.eu.angsrvr.com
 0.0.0.0 ac.mmstat.com

@@ -1,8 +1,8 @@
 # antipopads Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-# Last Converted - 27.09.2018
-# Total Domains - 2878
+# Last Converted - 28.09.2018
+# Total Domains - 2895
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -71,6 +71,7 @@
 0.0.0.0 anqnimezkdjm.com
 0.0.0.0 aodqhrwbaky.com
 0.0.0.0 aohonqhbhuljz.com
+0.0.0.0 aonxktnn.com
 0.0.0.0 aphjbgth.com
 0.0.0.0 aptaeabkg.com
 0.0.0.0 aqjdigkqvmakz.com
@@ -365,6 +366,7 @@
 0.0.0.0 dfrcdywe.com
 0.0.0.0 dfrekewe.com
 0.0.0.0 dfujqyjifvoe.com
+0.0.0.0 dgnuumyxpqiget.com
 0.0.0.0 dhaomvok.com
 0.0.0.0 dhgcqqmtf.com
 0.0.0.0 dhienrfamv.com
@@ -932,6 +934,7 @@
 0.0.0.0 iclytswtff.com
 0.0.0.0 idbxnzgmn.com
 0.0.0.0 idcoyhwzthhjv.com
+0.0.0.0 iddvmkxme.com
 0.0.0.0 idelmxrchrce.com
 0.0.0.0 ideprjebdvj.com
 0.0.0.0 idfybbol.com
@@ -1317,6 +1320,7 @@
 0.0.0.0 lkdlamrwl.com
 0.0.0.0 lkfuihubbros.com
 0.0.0.0 lkgcdedbklfse.com
+0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 llhjbwcjnuii.com
 0.0.0.0 llluzqrvfyrbt.com
 0.0.0.0 llnxfuxszevf.com
@@ -1333,6 +1337,7 @@
 0.0.0.0 lojuxbnt.com
 0.0.0.0 lopdogmltbnbc.com
 0.0.0.0 lpohfjht.com
+0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lpxxafsupgsho.com
 0.0.0.0 lqfolelqvc.com
 0.0.0.0 lqipfyknwlo.com
@@ -1599,6 +1604,7 @@
 0.0.0.0 oamrraft.com
 0.0.0.0 oaqaxjmyuxkpm.com
 0.0.0.0 oaqwxxjhwpyxjd.com
+0.0.0.0 oarqgvtkco.com
 0.0.0.0 oazznjmbchmpdg.com
 0.0.0.0 obczphph.com
 0.0.0.0 oblbewqykouak.com
@@ -1757,6 +1763,7 @@
 0.0.0.0 prpkhpjxghhn.com
 0.0.0.0 prsmglob.com
 0.0.0.0 prtjzzyfi.com
+0.0.0.0 prulogzjtyksnh.com
 0.0.0.0 psborsxlcorxuq.com
 0.0.0.0 psgdjmtpvey.com
 0.0.0.0 psvdblzcgnjj.com
@@ -1981,6 +1988,7 @@
 0.0.0.0 rkczvumivvb.com
 0.0.0.0 rkgznnhikrfphq.com
 0.0.0.0 rlaiomvkwz.com
+0.0.0.0 rlgungosm.com
 0.0.0.0 rlpabnhvtu.com
 0.0.0.0 rlszkjkcmjxd.com
 0.0.0.0 rlxmbkwcyw.com
@@ -2118,6 +2126,7 @@
 0.0.0.0 sxdpyazzofu.com
 0.0.0.0 sxiyvcqnp.com
 0.0.0.0 sxjhskptisd.com
+0.0.0.0 sxmmgiuilt.com
 0.0.0.0 sxrwqytqajwpt.com
 0.0.0.0 sydhbmlmdxzd.com
 0.0.0.0 symydvmqjjp.com
@@ -2183,6 +2192,7 @@
 0.0.0.0 tncexvzu.com
 0.0.0.0 tnjjkxhyai.com
 0.0.0.0 tnlfupvrlr.com
+0.0.0.0 tnlshxmc.com
 0.0.0.0 tntqrmqfst.com
 0.0.0.0 tnznswilqtni.com
 0.0.0.0 toenwwsmam.com
@@ -2438,6 +2448,7 @@
 0.0.0.0 vvqeavcir.com
 0.0.0.0 vwbnexnwpmangv.com
 0.0.0.0 vwdrpxmgehqknz.com
+0.0.0.0 vwkyuawm.com
 0.0.0.0 vwpoxvufxnon.com
 0.0.0.0 vxbphudphg.com
 0.0.0.0 vxkupxpf.com
@@ -2477,6 +2488,7 @@
 0.0.0.0 wfyqdhypgmscy.com
 0.0.0.0 wfywchrzpic.com
 0.0.0.0 wgkurvzvd.com
+0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgroobsxrnijg.com
 0.0.0.0 wgssxjoac.com
 0.0.0.0 wgtfdzopmae.com
@@ -2540,6 +2552,7 @@
 0.0.0.0 wsrjplhhhfmfsx.com
 0.0.0.0 wsxqgzalf.com
 0.0.0.0 wsyuiudkoqrf.com
+0.0.0.0 wszpjhuosjeexj.com
 0.0.0.0 wthqlngtcgwxrp.com
 0.0.0.0 wtixtgqyztdc.com
 0.0.0.0 wtqrtjthyuopw.com
@@ -2681,6 +2694,7 @@
 0.0.0.0 yasnxwjtjbx.com
 0.0.0.0 yaujmwnwurdhm.com
 0.0.0.0 ybgbaxrzxxlr.com
+0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 ybmdgyywbhk.com
 0.0.0.0 ybnuasihsy.com
 0.0.0.0 ybofeikeckfxh.com
@@ -2689,6 +2703,7 @@
 0.0.0.0 ybrmiemawkawxb.com
 0.0.0.0 ybwackoidmcat.com
 0.0.0.0 ycexjzoek.com
+0.0.0.0 ycyrgutjregkw.com
 0.0.0.0 yddazzul.com
 0.0.0.0 ydeoxwomjpvxoz.com
 0.0.0.0 ydlrdzlbgs.com
@@ -2870,6 +2885,7 @@
 0.0.0.0 zxafncddmww.com
 0.0.0.0 zxavxgjcjmkh.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxreyuxvrjzxa.com
 0.0.0.0 zxxfoccanf.com
 0.0.0.0 zxxzqiqbchqkaw.com
@@ -2885,3 +2901,4 @@
 0.0.0.0 zzmyypjedpfxck.com
 0.0.0.0 zzoxzkpqmklr.com
 0.0.0.0 zzrdvzryaiwsin.com
+0.0.0.0 zzxosget.com

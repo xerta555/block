@@ -1,8 +1,8 @@
 # easylist-russian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easylist-russian.txt
-# Last Converted - 27.09.2018
-# Total Domains - 16631
+# Last Converted - 28.09.2018
+# Total Domains - 16654
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -473,6 +473,7 @@
 0.0.0.0 749d9039c2d4f6323714.date
 0.0.0.0 74da0fffc981.com
 0.0.0.0 750industries.com
+0.0.0.0 75149901cf8ae668.com
 0.0.0.0 753912c2e5560d428ba2.date
 0.0.0.0 757a51ce62f.com
 0.0.0.0 758c824671f4fc0.com
@@ -2418,6 +2419,7 @@
 0.0.0.0 ba.ccm2.net
 0.0.0.0 ba.kioskea.net
 0.0.0.0 ba6af3a0099c6cb9eb5.com
+0.0.0.0 baa279025d782fe1.com
 0.0.0.0 babbnrs.com
 0.0.0.0 babcohem.com
 0.0.0.0 babereporters.info
@@ -2970,7 +2972,6 @@
 0.0.0.0 boogieiwoogie.ru
 0.0.0.0 bookbudd.com
 0.0.0.0 bookforall1.bookforall.ru
-0.0.0.0 booking.com
 0.0.0.0 bookingdragon.com
 0.0.0.0 bookofluck.net
 0.0.0.0 bookofsex.com
@@ -4289,6 +4290,7 @@
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
+0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3rp5jatom3eyn.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
@@ -4533,6 +4535,7 @@
 0.0.0.0 dgmatix.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dgmaxinteractive.com
+0.0.0.0 dgnuumyxpqiget.com
 0.0.0.0 dgstr.website
 0.0.0.0 dh2xbuwg.com
 0.0.0.0 dhaomvok.com
@@ -4630,6 +4633,7 @@
 0.0.0.0 djqercix.com
 0.0.0.0 djr4k68f8n55o.cloudfront.net
 0.0.0.0 djuxmbjauluis.com
+0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 dk4ywix.com
 0.0.0.0 dkemeli.ru
 0.0.0.0 dkf9g61v.date
@@ -5257,6 +5261,7 @@
 0.0.0.0 etggealva.com
 0.0.0.0 etglnloj.com
 0.0.0.0 ethelic.ru
+0.0.0.0 ethfw0370q.com
 0.0.0.0 etojackpot.com
 0.0.0.0 etology.com
 0.0.0.0 etonews.ru
@@ -6151,6 +6156,7 @@
 0.0.0.0 getmyads.com
 0.0.0.0 getmyads24.com
 0.0.0.0 getmygeo.com
+0.0.0.0 getmyimg.online
 0.0.0.0 getpopunder.com
 0.0.0.0 getresponse.com
 0.0.0.0 getrotai.ru
@@ -7019,6 +7025,7 @@
 0.0.0.0 idbhsgy.com
 0.0.0.0 idbxnzgmn.com
 0.0.0.0 idcoyhwzthhjv.com
+0.0.0.0 iddvmkxme.com
 0.0.0.0 ideal-sexe.com
 0.0.0.0 idealgasm.com
 0.0.0.0 idealmedia.com
@@ -8577,6 +8584,7 @@
 0.0.0.0 lkdlamrwl.com
 0.0.0.0 lkfuihubbros.com
 0.0.0.0 lkgcdedbklfse.com
+0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 lkqd.net
 0.0.0.0 ll.a.hulu.com
 0.0.0.0 llhjbwcjnuii.com
@@ -8688,6 +8696,7 @@
 0.0.0.0 lp.titanpoker.com
 0.0.0.0 lp1block.com
 0.0.0.0 lpohfjht.com
+0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lptiu.top
 0.0.0.0 lpwre.top
 0.0.0.0 lpxxafsupgsho.com
@@ -10290,6 +10299,7 @@
 0.0.0.0 oamrraft.com
 0.0.0.0 oaqaxjmyuxkpm.com
 0.0.0.0 oaqwxxjhwpyxjd.com
+0.0.0.0 oarqgvtkco.com
 0.0.0.0 oas.luxweb.com
 0.0.0.0 oasc07.citywire.co.uk
 0.0.0.0 oascentral.chron.com
@@ -11522,6 +11532,7 @@
 0.0.0.0 prscripts.com
 0.0.0.0 prsmglob.com
 0.0.0.0 prtjzzyfi.com
+0.0.0.0 prulogzjtyksnh.com
 0.0.0.0 prxio.github.io
 0.0.0.0 prxio.pw
 0.0.0.0 prycratre.club
@@ -12314,6 +12325,7 @@
 0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rle.ru
 0.0.0.0 rlex.org
+0.0.0.0 rlgungosm.com
 0.0.0.0 rlpabnhvtu.com
 0.0.0.0 rlszkjkcmjxd.com
 0.0.0.0 rlxmbkwcyw.com
@@ -12765,6 +12777,7 @@
 0.0.0.0 secretbehindporn.com
 0.0.0.0 secretmedia.com
 0.0.0.0 secretmedia.s3.amazonaws.com
+0.0.0.0 sectivity.mobi
 0.0.0.0 secure-softwaremanager.com
 0.0.0.0 secure.komli.com
 0.0.0.0 secureboom.net
@@ -13577,6 +13590,7 @@
 0.0.0.0 sxdpyazzofu.com
 0.0.0.0 sxiyvcqnp.com
 0.0.0.0 sxjhskptisd.com
+0.0.0.0 sxmmgiuilt.com
 0.0.0.0 sxrwqytqajwpt.com
 0.0.0.0 sydhbmlmdxzd.com
 0.0.0.0 syekg.top
@@ -13933,6 +13947,7 @@
 0.0.0.0 tissage-extension.com
 0.0.0.0 titanbrowser.com
 0.0.0.0 titangel.me
+0.0.0.0 titranco.info
 0.0.0.0 titsbro.org
 0.0.0.0 tiutietur.com
 0.0.0.0 tivbpmwvqyyrjc.com
@@ -14039,6 +14054,7 @@
 0.0.0.0 tnjjkxhyai.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tnlfupvrlr.com
+0.0.0.0 tnlshxmc.com
 0.0.0.0 tntqrmqfst.com
 0.0.0.0 tnx.net
 0.0.0.0 tnznswilqtni.com
@@ -15305,6 +15321,7 @@
 0.0.0.0 vwbnexnwpmangv.com
 0.0.0.0 vwcsl.com
 0.0.0.0 vwdrpxmgehqknz.com
+0.0.0.0 vwkyuawm.com
 0.0.0.0 vwpoxvufxnon.com
 0.0.0.0 vxbphudphg.com
 0.0.0.0 vxbykr.ru
@@ -15520,6 +15537,7 @@
 0.0.0.0 wfywchrzpic.com
 0.0.0.0 wgkurvzvd.com
 0.0.0.0 wgpartner.com
+0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgroobsxrnijg.com
 0.0.0.0 wgssxjoac.com
 0.0.0.0 wgtfdzopmae.com
@@ -15763,6 +15781,7 @@
 0.0.0.0 wssdoo.com
 0.0.0.0 wsxqgzalf.com
 0.0.0.0 wsyuiudkoqrf.com
+0.0.0.0 wszpjhuosjeexj.com
 0.0.0.0 wt.lovfot.ru
 0.0.0.0 wthqlngtcgwxrp.com
 0.0.0.0 wtixtgqyztdc.com
@@ -16117,6 +16136,7 @@
 0.0.0.0 yb.torchbrowser.com
 0.0.0.0 yb0t.com
 0.0.0.0 ybgbaxrzxxlr.com
+0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 ybjpvh.xyz
 0.0.0.0 ybmdgyywbhk.com
 0.0.0.0 ybnuasihsy.com
@@ -16130,6 +16150,7 @@
 0.0.0.0 yceml.net
 0.0.0.0 ycexjzoek.com
 0.0.0.0 ycounter.ru
+0.0.0.0 ycyrgutjregkw.com
 0.0.0.0 ydare.space
 0.0.0.0 ydbbs.us
 0.0.0.0 ydbsmpnt.mobi
@@ -16613,6 +16634,7 @@
 0.0.0.0 zxafncddmww.com
 0.0.0.0 zxavxgjcjmkh.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxpxt.space
 0.0.0.0 zxreyuxvrjzxa.com
 0.0.0.0 zxrtn.com
@@ -16638,3 +16660,4 @@
 0.0.0.0 zzoxzkpqmklr.com
 0.0.0.0 zzrdvzryaiwsin.com
 0.0.0.0 zzsites.ru
+0.0.0.0 zzxosget.com

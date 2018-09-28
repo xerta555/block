@@ -1,8 +1,8 @@
 # mailborder-phishing-bad-sites Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
-# Last Converted - 27.09.2018
-# Total Domains - 16246
+# Last Converted - 28.09.2018
+# Total Domains - 16217
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -6632,7 +6632,6 @@
 0.0.0.0 link-200.ru
 0.0.0.0 link-edln-secu.000webhostapp.com
 0.0.0.0 link-group.com
-0.0.0.0 link-up.com.ru
 0.0.0.0 link.babi.gdn
 0.0.0.0 link.do
 0.0.0.0 link.fastsrv.com
@@ -6653,7 +6652,6 @@
 0.0.0.0 links.e.helloworldemail.com
 0.0.0.0 links.humana-email2.com
 0.0.0.0 links.mkt2944.com
-0.0.0.0 links.org.ru
 0.0.0.0 links.productreportcard.com
 0.0.0.0 links.winchristmas.com.au
 0.0.0.0 links.zondervancorporation.mkt4728.com
@@ -6894,7 +6892,6 @@
 0.0.0.0 magazineluizaespeciais.com
 0.0.0.0 magazinenovidades.com
 0.0.0.0 magento.cekwa.com
-0.0.0.0 magicfingers.com.pk
 0.0.0.0 magicoccasions.com
 0.0.0.0 magicopal.uranaidayo.net
 0.0.0.0 magicstudio.webmix.org
@@ -6933,7 +6930,6 @@
 0.0.0.0 mail.internalitsupport.com
 0.0.0.0 mail.internationalhealthcompany.com
 0.0.0.0 mail.jaspergroup.us.com
-0.0.0.0 mail.lomaresidencial.com
 0.0.0.0 mail.marcusevansamerica.com
 0.0.0.0 mail.mcmedia.com.au
 0.0.0.0 mail.mmvgen.com
@@ -7972,7 +7968,6 @@
 0.0.0.0 newlooksocial.com
 0.0.0.0 newmanassoc.com
 0.0.0.0 newmatch641photos.esy.es
-0.0.0.0 newmatchddphotos.890m.com
 0.0.0.0 newmetekhi.ge
 0.0.0.0 newminimall.com
 0.0.0.0 newmrdc.com
@@ -8094,7 +8089,6 @@
 0.0.0.0 nortoncomnorton.com
 0.0.0.0 norwin.biz
 0.0.0.0 nosphil.com.ph
-0.0.0.0 nossositio.pt
 0.0.0.0 notaiobrando.it
 0.0.0.0 notedocxs.000webhostapp.com
 0.0.0.0 nothingelsefilm.com
@@ -8206,7 +8200,6 @@
 0.0.0.0 officemeil.000webhostapp.com
 0.0.0.0 officenetweb.byethost4.com
 0.0.0.0 officesetupback.myfreesites.net
-0.0.0.0 officesupport.esy.es
 0.0.0.0 officesweb.myfreesites.net
 0.0.0.0 official.ethx10.com
 0.0.0.0 officialmcafee.github.io
@@ -8615,7 +8608,6 @@
 0.0.0.0 paulscycle.ca
 0.0.0.0 paupal-lo.byethost5.com
 0.0.0.0 pavkovcontracting.com
-0.0.0.0 pavlikandreev2030.000webhostapp.com
 0.0.0.0 pavypcl-web.app-status.com
 0.0.0.0 pawonsedap.com
 0.0.0.0 paxfulverify.org
@@ -8628,12 +8620,10 @@
 0.0.0.0 payapliensportuans98.com
 0.0.0.0 paybbaa.com
 0.0.0.0 paydayproperty.net
-0.0.0.0 payep.000webhostapp.com
 0.0.0.0 payfop.co.vu
 0.0.0.0 payhop.co.vu
 0.0.0.0 payipaling0.blogspot.com
 0.0.0.0 paykassa2018.ru
-0.0.0.0 paymen-t-slip-doc.000webhostapp.com
 0.0.0.0 payment.gateway-revenue.ids0292630.nececa.com
 0.0.0.0 payment3511.tk
 0.0.0.0 payneconstruction.co.uk
@@ -8725,7 +8715,6 @@
 0.0.0.0 paypl-com5.byethost6.com
 0.0.0.0 payppaqi.beget.tech
 0.0.0.0 payrollupdatepotal.ontrapages.com
-0.0.0.0 pbefebb.edu.digital
 0.0.0.0 pbi-international.com
 0.0.0.0 pc-adx23.stream
 0.0.0.0 pc.acidrct.com
@@ -8741,7 +8730,6 @@
 0.0.0.0 pdfholder.000webhostapp.com
 0.0.0.0 pdflibrodescargar.typepad.com
 0.0.0.0 pdflink67.000webhostapp.com
-0.0.0.0 pdnas.myqnapcloud.com
 0.0.0.0 peacefullifestyle.com
 0.0.0.0 peakbizperformance.ca
 0.0.0.0 peartreelounge.com
@@ -8851,7 +8839,6 @@
 0.0.0.0 philipsen-metallbau.de
 0.0.0.0 phillippedodemant.000webhostapp.com
 0.0.0.0 phinkink.com
-0.0.0.0 phinylexgaga-001-site1.etempurl.com
 0.0.0.0 phoenixdetroitaustin514.ml
 0.0.0.0 phoenixlocksmith-az.com
 0.0.0.0 pholse.com
@@ -8986,7 +8973,6 @@
 0.0.0.0 pokovok.net
 0.0.0.0 pokupaka.info
 0.0.0.0 poleworldfestival.co.uk
-0.0.0.0 policy404.hol.es
 0.0.0.0 polimat.com.ua
 0.0.0.0 politeknikunggul-lppm.ac.id
 0.0.0.0 politicalwebs.com
@@ -9032,7 +9018,6 @@
 0.0.0.0 portalativo.com.previewc75.carrierzone.com
 0.0.0.0 portaldemodelos.cl
 0.0.0.0 portalfynpal.clickacumba.com
-0.0.0.0 portalonline.cf
 0.0.0.0 portalsaudequantum.com.br
 0.0.0.0 portfolio-ic.nl
 0.0.0.0 portfolio.sayeefkhan.com
@@ -9122,7 +9107,6 @@
 0.0.0.0 primesourcellc.com
 0.0.0.0 primspa.mx
 0.0.0.0 pringatan007.wixsite.com
-0.0.0.0 print-img.icu
 0.0.0.0 print-science.com
 0.0.0.0 printershelpnumber.co.uk
 0.0.0.0 printery.la
@@ -9187,7 +9171,6 @@
 0.0.0.0 promo-official.com
 0.0.0.0 promo.ethgft.us
 0.0.0.0 promo.ethtake.com
-0.0.0.0 promocaojunina-com.umbler.net
 0.0.0.0 promoflfarusia.gq
 0.0.0.0 promomalua.com
 0.0.0.0 promopontofrio.xyz
@@ -9799,7 +9782,6 @@
 0.0.0.0 safe.earnethnow.com
 0.0.0.0 safe.ethdeliver.com
 0.0.0.0 safe.ethgiftnow.com
-0.0.0.0 safe.ethgoldmine.com
 0.0.0.0 safe.ethincrease.com
 0.0.0.0 safe.ethpaynet.com
 0.0.0.0 safe.ethtreasury.com
@@ -10126,7 +10108,6 @@
 0.0.0.0 serinfomedia.com
 0.0.0.0 serjairconditioning.com
 0.0.0.0 serkanreklam.net
-0.0.0.0 sermeromn.vifoimages.com
 0.0.0.0 serveicen-payplcom-logged.skripshitcuk.org
 0.0.0.0 server.aadcomed.com
 0.0.0.0 server.softlinesolutions.com
@@ -10205,8 +10186,6 @@
 0.0.0.0 settings-100002005688532.hol.es
 0.0.0.0 settings-users.96.lt
 0.0.0.0 settings22.000webhostapp.com
-0.0.0.0 settings606.hol.es
-0.0.0.0 settings909.hol.es
 0.0.0.0 setup-activate.net
 0.0.0.0 seu-free.net
 0.0.0.0 sevappseilgoog.blogspot.com
@@ -10341,7 +10320,6 @@
 0.0.0.0 signin-appleid.live
 0.0.0.0 signin.amazon.co.uk-prime.form-unsuscribe.id-5564.charlescooper.com.au
 0.0.0.0 signin.ebay.it.ws.ebayisapi.dll.signin.usingssl.1.puseridpartnerid.siteiddll.signin.usingssl.1.puseridpartnerid.siteid.pubworksconstruction.com.au
-0.0.0.0 signin.ebay.it.ws.ebayisapi.dll.signin.usingssl.1.puseridpartnerid.siteiddll.signin.usingssl.1.puseridpartnerid.siteid.westmarkproducts.ca
 0.0.0.0 signin.ebayysapidllsignin.ebay.de.drssmuthiah.com
 0.0.0.0 signup.kidslivesafe.com
 0.0.0.0 sikdergroupbd.com
@@ -10669,7 +10647,6 @@
 0.0.0.0 ssp-ep.com
 0.0.0.0 ssukelabaman.com
 0.0.0.0 ssusconsulting.com
-0.0.0.0 sta-group.ir
 0.0.0.0 staff-payroll.000webhostapp.com
 0.0.0.0 staff86.yolasite.com
 0.0.0.0 staffadmin.yolasite.com
@@ -10699,7 +10676,6 @@
 0.0.0.0 starslay3r.net
 0.0.0.0 starsoftheindustry.com
 0.0.0.0 starsongspk.audio
-0.0.0.0 starstringing.net
 0.0.0.0 startc.co
 0.0.0.0 starttsboxfile.myfreesites.net
 0.0.0.0 startupswave.com
@@ -11192,7 +11168,6 @@
 0.0.0.0 testestestes555-com.umbler.net
 0.0.0.0 testovaciweb.com
 0.0.0.0 testwifi.info
-0.0.0.0 tetnsatormat.eb2a.com
 0.0.0.0 tetrac.com.br
 0.0.0.0 tetradinternational.com
 0.0.0.0 tevclicks.info
@@ -11427,7 +11402,6 @@
 0.0.0.0 tools.datahouse.ch
 0.0.0.0 top-ethereum.net
 0.0.0.0 top-rankedmarketing.com
-0.0.0.0 top.forexwk.ru
 0.0.0.0 top4pics.com
 0.0.0.0 topcoincollectingtips.com
 0.0.0.0 topdent5.mycpanel.rs
@@ -11460,7 +11434,6 @@
 0.0.0.0 tpreiahouston.org
 0.0.0.0 tpreiasanantonio.net
 0.0.0.0 tpreiasouthtexas.org
-0.0.0.0 tpttns.sumathibuilders.com
 0.0.0.0 tpz-service.ru
 0.0.0.0 trabalheconoscoaqui.com
 0.0.0.0 tracelab.cl
@@ -11819,7 +11792,6 @@
 0.0.0.0 us.battle.net.login.login.xml.account.support.html.management-help.xyz
 0.0.0.0 us.battle.net.login.login.xml.account.support.html.settings-overwatch.xyz
 0.0.0.0 us.dumalux.com
-0.0.0.0 us.match.intercovest.com
 0.0.0.0 us0matchpix.16mb.com
 0.0.0.0 us3.webmail.mailhostbox.com
 0.0.0.0 us5406.hol.es
@@ -11929,7 +11901,6 @@
 0.0.0.0 vassystemstech.com
 0.0.0.0 vatex.sk
 0.0.0.0 vb1224.com
-0.0.0.0 vblogis.blogspot.com
 0.0.0.0 vbucksninja.com
 0.0.0.0 vcbcbbc.skclick.in
 0.0.0.0 vccontakte.000webhostapp.com

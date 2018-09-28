@@ -1,8 +1,8 @@
 # easylist-italy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easylist-italy.txt
-# Last Converted - 27.09.2018
-# Total Domains - 197
+# Last Converted - 28.09.2018
+# Total Domains - 196
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -57,7 +57,6 @@
 0.0.0.0 bannerpromotion.it
 0.0.0.0 banzaiadv.it
 0.0.0.0 beead.it
-0.0.0.0 booking.com
 0.0.0.0 booking.fioccovacanze.it
 0.0.0.0 buyon.it
 0.0.0.0 caniaddestrati.org

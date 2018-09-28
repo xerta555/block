@@ -1,8 +1,8 @@
 # hosts-file.net-ats Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
-# Last Converted - 27.09.2018
-# Total Domains - 44021
+# Last Converted - 28.09.2018
+# Total Domains - 44018
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -1360,7 +1360,6 @@
 0.0.0.0 abscbn.spinbox.net
 0.0.0.0 absolstats.co.za
 0.0.0.0 abz.com
-0.0.0.0 ac-nb.marketgid.com
 0.0.0.0 ac.babsrv.com
 0.0.0.0 ac.berlinonline.de
 0.0.0.0 ac.express.de
@@ -28648,7 +28647,6 @@
 0.0.0.0 impnl.tradedoubler.com
 0.0.0.0 impno.tradedoubler.com
 0.0.0.0 impr.superpages.com
-0.0.0.0 imprese.cz
 0.0.0.0 impression.clickinc.com
 0.0.0.0 imprusmp.admailtiser.com
 0.0.0.0 impse.tradedoubler.com
@@ -32744,7 +32742,6 @@
 0.0.0.0 r2.cooleremail.com
 0.0.0.0 r2.linksynergy.com
 0.0.0.0 r2.plugrush.com
-0.0.0.0 r20.rs6.net
 0.0.0.0 r2fjs.voluumtrk.com
 0.0.0.0 r2jmarketing.go2cloud.org
 0.0.0.0 r2v3n.voluumtrk.com

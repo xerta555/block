@@ -1,8 +1,8 @@
 # squidblacklist-dg-ads Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - 27.09.2018
-# Total Domains - 4417
+# Last Converted - 28.09.2018
+# Total Domains - 4414
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -409,7 +409,6 @@
 0.0.0.0 adit-media.com
 0.0.0.0 adition.com
 0.0.0.0 adition.de
-0.0.0.0 adition.net
 0.0.0.0 aditize.com
 0.0.0.0 adizio.com
 0.0.0.0 adjal.com
@@ -2401,7 +2400,6 @@
 0.0.0.0 impactradius.com
 0.0.0.0 implix.com
 0.0.0.0 impore.com
-0.0.0.0 imprese.cz
 0.0.0.0 impresionesweb.com
 0.0.0.0 impressiondesk.com
 0.0.0.0 impressionmedia.cz
@@ -3255,7 +3253,6 @@
 0.0.0.0 pulsemgr.com
 0.0.0.0 puserving.com
 0.0.0.0 push2check.com
-0.0.0.0 pusk.ru
 0.0.0.0 pwrads.net
 0.0.0.0 q.azcentral.com
 0.0.0.0 q1media.com

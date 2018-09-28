@@ -1,8 +1,8 @@
 # phishing-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
-# Last Converted - 27.09.2018
-# Total Domains - 763
+# Last Converted - 28.09.2018
+# Total Domains - 754
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -367,7 +367,6 @@
 0.0.0.0 mtzregroup.com
 0.0.0.0 mubyza.com
 0.0.0.0 n3plcpnl0037.prod.ams3.secureserver.net
-0.0.0.0 na1mqjorokdvcyawvao7.2fs.pt
 0.0.0.0 nachalinc.com
 0.0.0.0 nappf.ru
 0.0.0.0 nasrisri.tripod.com
@@ -388,7 +387,6 @@
 0.0.0.0 nijuyon.stream
 0.0.0.0 ninicom.com.au
 0.0.0.0 nmbizz.net
-0.0.0.0 nnfeaucxsjy5rmei4tx0.2fs.pt
 0.0.0.0 notice-secure.000webhostapp.com
 0.0.0.0 noticias2018.com
 0.0.0.0 novem.cc
@@ -405,7 +403,6 @@
 0.0.0.0 onlinewf-or.agency
 0.0.0.0 onlinewf-or.site
 0.0.0.0 onlinewf.me
-0.0.0.0 onrbnateywpelzeutbet.2fs.pt
 0.0.0.0 orange.fr.sanpedroandjankowitz.com
 0.0.0.0 osir-zoliborz.waw.pl
 0.0.0.0 p3b.or.id
@@ -449,11 +446,8 @@
 0.0.0.0 pspnautomation.com
 0.0.0.0 pu26.syzran.ru
 0.0.0.0 pustaka.pn-waikabubak.go.id
-0.0.0.0 pxjurl44tcjlpuo9kc0k.2fs.pt
 0.0.0.0 pxjurl44tcjlpuo9kc0k.rozan4clerk.com
 0.0.0.0 pxjurl44tcjlpuo9kc0k.utahelkwhisperer.com
-0.0.0.0 qae4nyntizrc9ftj4qer.2fs.pt
-0.0.0.0 qlbwhuoa9ci07tygsy81.2fs.pt
 0.0.0.0 qrequest3.usa.cc
 0.0.0.0 radiological-handfu.000webhostapp.com
 0.0.0.0 rainerfingerle.com
@@ -482,7 +476,6 @@
 0.0.0.0 rwconstructiongasc.com
 0.0.0.0 rzlszblgwxkgny12ekyl.rozan4clerk.com
 0.0.0.0 rzmarinesafety.com
-0.0.0.0 s8pqoz3mwzad8hipl7nk.2fs.pt
 0.0.0.0 sac.ib2ws.com
 0.0.0.0 safariartanddesign.co.uk
 0.0.0.0 safeguardtravel.com
@@ -522,7 +515,6 @@
 0.0.0.0 solutionspharmaceuticalsghana.com
 0.0.0.0 solventra.net
 0.0.0.0 sptministries.com
-0.0.0.0 srv155316.hoster-test.ru
 0.0.0.0 srv155384.hoster-test.ru
 0.0.0.0 ssertoolii.usa.cc
 0.0.0.0 startc.co
@@ -538,7 +530,6 @@
 0.0.0.0 talopae.usa.cc
 0.0.0.0 tantrumdynamic.com
 0.0.0.0 tcfutbolakademisi.com
-0.0.0.0 tcjeshmor74f1i0b0vj4.2fs.pt
 0.0.0.0 tdmcculloch.com
 0.0.0.0 tecsa.pl
 0.0.0.0 telephoneanswerservice.com

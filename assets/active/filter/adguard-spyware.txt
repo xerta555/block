@@ -1,8 +1,8 @@
 # adguard-spyware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-spyware-filter.txt
-# Last Converted - 27.09.2018
-# Total Domains - 3439
+# Last Converted - 28.09.2018
+# Total Domains - 3440
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -2658,6 +2658,7 @@
 0.0.0.0 stat.scroogefrog.com
 0.0.0.0 stat.sports.ru
 0.0.0.0 stat.sputnik.ru
+0.0.0.0 stat.teleport.media
 0.0.0.0 stat.tvigle.ru
 0.0.0.0 stat.uitools.space
 0.0.0.0 stat.www.fi

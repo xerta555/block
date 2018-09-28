@@ -1,8 +1,8 @@
 # cameleon Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
-# Last Converted - 27.09.2018
-# Total Domains - 19344
+# Last Converted - 28.09.2018
+# Total Domains - 19343
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -742,7 +742,6 @@
 0.0.0.0 abum.axelsfun.com
 0.0.0.0 abz.com
 0.0.0.0 ac-gb.mgid.com
-0.0.0.0 ac-nb.marketgid.com
 0.0.0.0 ac.adpro.com.ua
 0.0.0.0 ac.ajur.info
 0.0.0.0 ac.eu.angsrvr.com

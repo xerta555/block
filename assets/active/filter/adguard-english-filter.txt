@@ -1,8 +1,8 @@
 # adguard-english-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-english-filter.txt
-# Last Converted - 27.09.2018
-# Total Domains - 11738
+# Last Converted - 28.09.2018
+# Total Domains - 11753
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -2249,7 +2249,6 @@
 0.0.0.0 boo-box.com
 0.0.0.0 boodlewrite.com
 0.0.0.0 bookbudd.com
-0.0.0.0 booking.com
 0.0.0.0 bookingdragon.com
 0.0.0.0 bookofsex.com
 0.0.0.0 boom-boom-vroom.com
@@ -3470,6 +3469,7 @@
 0.0.0.0 dgmatix.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dgmaxinteractive.com
+0.0.0.0 dgnuumyxpqiget.com
 0.0.0.0 dh0uktvqfaomb.cloudfront.net
 0.0.0.0 dh2xbuwg.com
 0.0.0.0 dhaomvok.com
@@ -4025,6 +4025,7 @@
 0.0.0.0 etglnloj.com
 0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
+0.0.0.0 ethfw0370q.com
 0.0.0.0 etology.com
 0.0.0.0 etrader.kalahari.com
 0.0.0.0 etrader.kalahari.net
@@ -4661,6 +4662,7 @@
 0.0.0.0 getgamers.eu
 0.0.0.0 getiton.com
 0.0.0.0 getmyads.com
+0.0.0.0 getmyimg.online
 0.0.0.0 getpopunder.com
 0.0.0.0 getresponse.com
 0.0.0.0 getscorecash.com
@@ -5269,6 +5271,7 @@
 0.0.0.0 id.kbmg.cz
 0.0.0.0 idbxnzgmn.com
 0.0.0.0 idcoyhwzthhjv.com
+0.0.0.0 iddvmkxme.com
 0.0.0.0 ideal-sexe.com
 0.0.0.0 idealgasm.com
 0.0.0.0 idealmedia.com
@@ -6293,6 +6296,7 @@
 0.0.0.0 lkdlamrwl.com
 0.0.0.0 lkfuihubbros.com
 0.0.0.0 lkgcdedbklfse.com
+0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 lkqd.net
 0.0.0.0 ll.a.hulu.com
 0.0.0.0 llhjbwcjnuii.com
@@ -7373,6 +7377,7 @@
 0.0.0.0 oamrraft.com
 0.0.0.0 oaqaxjmyuxkpm.com
 0.0.0.0 oaqwxxjhwpyxjd.com
+0.0.0.0 oarqgvtkco.com
 0.0.0.0 oas.luxweb.com
 0.0.0.0 oasc07.citywire.co.uk
 0.0.0.0 oascentral.chron.com
@@ -8236,6 +8241,7 @@
 0.0.0.0 prscripts.com
 0.0.0.0 prsmglob.com
 0.0.0.0 prtjzzyfi.com
+0.0.0.0 prulogzjtyksnh.com
 0.0.0.0 prxio.github.io
 0.0.0.0 prxio.pw
 0.0.0.0 ps7894.com
@@ -8870,6 +8876,7 @@
 0.0.0.0 rkgznnhikrfphq.com
 0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rlex.org
+0.0.0.0 rlgungosm.com
 0.0.0.0 rlpabnhvtu.com
 0.0.0.0 rlszkjkcmjxd.com
 0.0.0.0 rlxmbkwcyw.com
@@ -9114,6 +9121,7 @@
 0.0.0.0 secretbehindporn.com
 0.0.0.0 secretmedia.com
 0.0.0.0 secretmedia.s3.amazonaws.com
+0.0.0.0 sectivity.mobi
 0.0.0.0 secure-softwaremanager.com
 0.0.0.0 secure.iqmining.com
 0.0.0.0 secure.komli.com
@@ -9670,6 +9678,7 @@
 0.0.0.0 sxdpyazzofu.com
 0.0.0.0 sxiyvcqnp.com
 0.0.0.0 sxjhskptisd.com
+0.0.0.0 sxmmgiuilt.com
 0.0.0.0 sxrwqytqajwpt.com
 0.0.0.0 sy123888.com
 0.0.0.0 sydhbmlmdxzd.com
@@ -9958,6 +9967,7 @@
 0.0.0.0 tnjjkxhyai.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tnlfupvrlr.com
+0.0.0.0 tnlshxmc.com
 0.0.0.0 tnmedia.co
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tntqrmqfst.com
@@ -10758,6 +10768,7 @@
 0.0.0.0 vvqeavcir.com
 0.0.0.0 vwbnexnwpmangv.com
 0.0.0.0 vwdrpxmgehqknz.com
+0.0.0.0 vwkyuawm.com
 0.0.0.0 vwpoxvufxnon.com
 0.0.0.0 vxbphudphg.com
 0.0.0.0 vxkupxpf.com
@@ -10910,6 +10921,7 @@
 0.0.0.0 wfywchrzpic.com
 0.0.0.0 wgkurvzvd.com
 0.0.0.0 wgpartner.com
+0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgroobsxrnijg.com
 0.0.0.0 wgssxjoac.com
 0.0.0.0 wgtfdzopmae.com
@@ -11075,6 +11087,7 @@
 0.0.0.0 wsxqgzalf.com
 0.0.0.0 wsxxu.com
 0.0.0.0 wsyuiudkoqrf.com
+0.0.0.0 wszpjhuosjeexj.com
 0.0.0.0 wtdtjs.club
 0.0.0.0 wtdtjs.rocks
 0.0.0.0 wtg-ads.com
@@ -11340,6 +11353,7 @@
 0.0.0.0 yb.torchbrowser.com
 0.0.0.0 yb0t.com
 0.0.0.0 ybgbaxrzxxlr.com
+0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 ybmdgyywbhk.com
 0.0.0.0 ybnuasihsy.com
 0.0.0.0 ybofeikeckfxh.com
@@ -11350,6 +11364,7 @@
 0.0.0.0 ycasmd.info
 0.0.0.0 yceml.net
 0.0.0.0 ycexjzoek.com
+0.0.0.0 ycyrgutjregkw.com
 0.0.0.0 yddazzul.com
 0.0.0.0 ydeoxwomjpvxoz.com
 0.0.0.0 ydlrdzlbgs.com

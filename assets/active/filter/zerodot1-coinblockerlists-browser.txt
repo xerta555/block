@@ -1,8 +1,8 @@
 # zerodot1-coinblockerlists-browser Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Last Converted - 27.09.2018
-# Total Domains - 2090
+# Last Converted - 28.09.2018
+# Total Domains - 2106
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -195,6 +195,7 @@
 0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdn.streambeam.io
+0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdn2.inwemo.com
 0.0.0.0 cdncounter.top
 0.0.0.0 cdnfile.xyz
@@ -227,6 +228,7 @@
 0.0.0.0 cnt.statistic.date
 0.0.0.0 cody.services
 0.0.0.0 coihive.com
+0.0.0.0 coin-cube.com
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
 0.0.0.0 coin-hive-stratum-bqywuwxwij.now.sh
@@ -235,6 +237,7 @@
 0.0.0.0 coin-hive-stratum-yvvbqoavck.now.sh
 0.0.0.0 coin-hive.com
 0.0.0.0 coin-service.com
+0.0.0.0 coin-services.info
 0.0.0.0 coin.bajarlo.net
 0.0.0.0 coinblind.com
 0.0.0.0 coiner.site
@@ -307,6 +310,8 @@
 0.0.0.0 db.xmrpool.net
 0.0.0.0 de-mi-nis-ner.info
 0.0.0.0 de-mi-nis-ner2.info
+0.0.0.0 de-ner-mi-nis4.info
+0.0.0.0 de-nis-ner-mi-5.info
 0.0.0.0 de.cookiescript.info
 0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
@@ -420,6 +425,7 @@
 0.0.0.0 g.0x1f4b0.com
 0.0.0.0 g1thub.com
 0.0.0.0 gay-hotvideo.net
+0.0.0.0 gazanew.com
 0.0.0.0 gekko.coinnebula.com
 0.0.0.0 gemius.pl
 0.0.0.0 get.webxmr.com
@@ -601,6 +607,7 @@
 0.0.0.0 mepirtedic.com
 0.0.0.0 metrika.ron.si
 0.0.0.0 mfio.cf
+0.0.0.0 mi-de-ner-nis3.info
 0.0.0.0 mine.gay-hotvideo.net
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.torrent.pw
@@ -614,6 +621,7 @@
 0.0.0.0 miner.nablabee.com
 0.0.0.0 miner.oozing.co
 0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minerad.com
 0.0.0.0 minerclaim.net
 0.0.0.0 minercry.pt
 0.0.0.0 minero-proxy-01.now.sh
@@ -627,6 +635,7 @@
 0.0.0.0 mining.best
 0.0.0.0 mining.coin-hive.com
 0.0.0.0 mining.freebitco.in
+0.0.0.0 mining711.com
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
 0.0.0.0 miscws002.coinhive.com
@@ -652,6 +661,8 @@
 0.0.0.0 monero.hashvault.pro
 0.0.0.0 monerominer.rocks
 0.0.0.0 moneroocean.stream
+0.0.0.0 money-maker-default.info
+0.0.0.0 money-maker-script.info
 0.0.0.0 monitoringservice.co
 0.0.0.0 monkeyminer.net
 0.0.0.0 moonbit.co.in
@@ -891,6 +902,7 @@
 0.0.0.0 s2.play.tainiesonline.pw
 0.0.0.0 s2.play.vidzi.tv
 0.0.0.0 s2.play1.videos.vidto.me
+0.0.0.0 s2.soodatmish.com
 0.0.0.0 s2.thersprens.com
 0.0.0.0 s2.video.estream.nu
 0.0.0.0 s2.video2.stream.vidzi.tv
@@ -951,6 +963,7 @@
 0.0.0.0 server.adless.io
 0.0.0.0 server.jsecoin.com
 0.0.0.0 server4.nullrefexcep.com
+0.0.0.0 service4refresh.info
 0.0.0.0 sharing-is-caring.info
 0.0.0.0 shrink-service.it
 0.0.0.0 sickrage.ca
@@ -972,6 +985,8 @@
 0.0.0.0 sptlkiyjsglayc.ru
 0.0.0.0 sr.cookiescript.info
 0.0.0.0 srcip.com
+0.0.0.0 srcu.com
+0.0.0.0 srcu.pw
 0.0.0.0 srv01.bitcoiner.win
 0.0.0.0 srv02.bitcoiner.win
 0.0.0.0 st.kjli.fi
@@ -1882,6 +1897,7 @@
 0.0.0.0 www.sm3na.com
 0.0.0.0 www.snahome.com
 0.0.0.0 www.sparechange.io
+0.0.0.0 www.srcu.pw
 0.0.0.0 www.sss.freecontent.date
 0.0.0.0 www.stat0808.info
 0.0.0.0 www.stati.bid

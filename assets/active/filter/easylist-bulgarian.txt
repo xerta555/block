@@ -1,8 +1,8 @@
 # easylist-bulgarian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easylist-bulgarian.txt
-# Last Converted - 27.09.2018
-# Total Domains - 10476
+# Last Converted - 28.09.2018
+# Total Domains - 10497
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -2013,7 +2013,6 @@
 0.0.0.0 boo-box.com
 0.0.0.0 boodlewrite.com
 0.0.0.0 bookbudd.com
-0.0.0.0 booking.com
 0.0.0.0 bookingdragon.com
 0.0.0.0 bookofsex.com
 0.0.0.0 boom-boom-vroom.com
@@ -2865,6 +2864,7 @@
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
+0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3rp5jatom3eyn.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
@@ -3037,6 +3037,7 @@
 0.0.0.0 dgmatix.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dgmaxinteractive.com
+0.0.0.0 dgnuumyxpqiget.com
 0.0.0.0 dh2xbuwg.com
 0.0.0.0 dhaomvok.com
 0.0.0.0 dhgate.com
@@ -3102,6 +3103,7 @@
 0.0.0.0 djqercix.com
 0.0.0.0 djr4k68f8n55o.cloudfront.net
 0.0.0.0 djuxmbjauluis.com
+0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 dk4ywix.com
 0.0.0.0 dkf9g61v.date
 0.0.0.0 dkfdpglo.com
@@ -3525,6 +3527,7 @@
 0.0.0.0 etgdta.com
 0.0.0.0 etggealva.com
 0.0.0.0 etglnloj.com
+0.0.0.0 ethfw0370q.com
 0.0.0.0 etology.com
 0.0.0.0 etrader.kalahari.com
 0.0.0.0 etrader.kalahari.net
@@ -4116,6 +4119,7 @@
 0.0.0.0 getgamers.eu
 0.0.0.0 getiton.com
 0.0.0.0 getmyads.com
+0.0.0.0 getmyimg.online
 0.0.0.0 getpopunder.com
 0.0.0.0 getresponse.com
 0.0.0.0 getscorecash.com
@@ -4651,6 +4655,7 @@
 0.0.0.0 icqadvert.org
 0.0.0.0 idbxnzgmn.com
 0.0.0.0 idcoyhwzthhjv.com
+0.0.0.0 iddvmkxme.com
 0.0.0.0 ideal-sexe.com
 0.0.0.0 idealgasm.com
 0.0.0.0 idealmedia.com
@@ -5588,6 +5593,7 @@
 0.0.0.0 lkdlamrwl.com
 0.0.0.0 lkfuihubbros.com
 0.0.0.0 lkgcdedbklfse.com
+0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 lkqd.net
 0.0.0.0 ll.a.hulu.com
 0.0.0.0 llhjbwcjnuii.com
@@ -5655,6 +5661,7 @@
 0.0.0.0 lp.ncdownloader.com
 0.0.0.0 lp.titanpoker.com
 0.0.0.0 lpohfjht.com
+0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lpwre.top
 0.0.0.0 lpxxafsupgsho.com
 0.0.0.0 lqcdn.com
@@ -6560,6 +6567,7 @@
 0.0.0.0 oamrraft.com
 0.0.0.0 oaqaxjmyuxkpm.com
 0.0.0.0 oaqwxxjhwpyxjd.com
+0.0.0.0 oarqgvtkco.com
 0.0.0.0 oas.luxweb.com
 0.0.0.0 oasc07.citywire.co.uk
 0.0.0.0 oascentral.chron.com
@@ -7326,6 +7334,7 @@
 0.0.0.0 prscripts.com
 0.0.0.0 prsmglob.com
 0.0.0.0 prtjzzyfi.com
+0.0.0.0 prulogzjtyksnh.com
 0.0.0.0 prxio.github.io
 0.0.0.0 prxio.pw
 0.0.0.0 psborsxlcorxuq.com
@@ -7905,6 +7914,7 @@
 0.0.0.0 rkgznnhikrfphq.com
 0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rlex.org
+0.0.0.0 rlgungosm.com
 0.0.0.0 rlpabnhvtu.com
 0.0.0.0 rlszkjkcmjxd.com
 0.0.0.0 rlxmbkwcyw.com
@@ -8117,6 +8127,7 @@
 0.0.0.0 secretbehindporn.com
 0.0.0.0 secretmedia.com
 0.0.0.0 secretmedia.s3.amazonaws.com
+0.0.0.0 sectivity.mobi
 0.0.0.0 secure-softwaremanager.com
 0.0.0.0 secure.komli.com
 0.0.0.0 secureboom.net
@@ -8599,6 +8610,7 @@
 0.0.0.0 sxdpyazzofu.com
 0.0.0.0 sxiyvcqnp.com
 0.0.0.0 sxjhskptisd.com
+0.0.0.0 sxmmgiuilt.com
 0.0.0.0 sxrwqytqajwpt.com
 0.0.0.0 sydhbmlmdxzd.com
 0.0.0.0 symbiosting.com
@@ -8810,6 +8822,7 @@
 0.0.0.0 tiser.com
 0.0.0.0 tissage-extension.com
 0.0.0.0 titanbrowser.com
+0.0.0.0 titranco.info
 0.0.0.0 titsbro.org
 0.0.0.0 tivbpmwvqyyrjc.com
 0.0.0.0 tiveriches.pro
@@ -8852,6 +8865,7 @@
 0.0.0.0 tnjjkxhyai.com
 0.0.0.0 tnkexchange.com
 0.0.0.0 tnlfupvrlr.com
+0.0.0.0 tnlshxmc.com
 0.0.0.0 tntqrmqfst.com
 0.0.0.0 tnznswilqtni.com
 0.0.0.0 toalhjpw.com
@@ -9584,6 +9598,7 @@
 0.0.0.0 vvqeavcir.com
 0.0.0.0 vwbnexnwpmangv.com
 0.0.0.0 vwdrpxmgehqknz.com
+0.0.0.0 vwkyuawm.com
 0.0.0.0 vwpoxvufxnon.com
 0.0.0.0 vxbphudphg.com
 0.0.0.0 vxkupxpf.com
@@ -9722,6 +9737,7 @@
 0.0.0.0 wfywchrzpic.com
 0.0.0.0 wgkurvzvd.com
 0.0.0.0 wgpartner.com
+0.0.0.0 wgrbdqucfoieha.com
 0.0.0.0 wgroobsxrnijg.com
 0.0.0.0 wgssxjoac.com
 0.0.0.0 wgtfdzopmae.com
@@ -9872,6 +9888,7 @@
 0.0.0.0 wsrjplhhhfmfsx.com
 0.0.0.0 wsxqgzalf.com
 0.0.0.0 wsyuiudkoqrf.com
+0.0.0.0 wszpjhuosjeexj.com
 0.0.0.0 wthqlngtcgwxrp.com
 0.0.0.0 wtixtgqyztdc.com
 0.0.0.0 wtqrtjthyuopw.com
@@ -10112,6 +10129,7 @@
 0.0.0.0 yb.torchbrowser.com
 0.0.0.0 yb0t.com
 0.0.0.0 ybgbaxrzxxlr.com
+0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 ybmdgyywbhk.com
 0.0.0.0 ybnuasihsy.com
 0.0.0.0 ybofeikeckfxh.com
@@ -10122,6 +10140,7 @@
 0.0.0.0 ycasmd.info
 0.0.0.0 yceml.net
 0.0.0.0 ycexjzoek.com
+0.0.0.0 ycyrgutjregkw.com
 0.0.0.0 yddazzul.com
 0.0.0.0 ydeoxwomjpvxoz.com
 0.0.0.0 ydlrdzlbgs.com
@@ -10465,6 +10484,7 @@
 0.0.0.0 zxafncddmww.com
 0.0.0.0 zxavxgjcjmkh.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxreyuxvrjzxa.com
 0.0.0.0 zxxds.net
 0.0.0.0 zxxfoccanf.com
@@ -10483,3 +10503,4 @@
 0.0.0.0 zzmyypjedpfxck.com
 0.0.0.0 zzoxzkpqmklr.com
 0.0.0.0 zzrdvzryaiwsin.com
+0.0.0.0 zzxosget.com

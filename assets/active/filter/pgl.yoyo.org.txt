@@ -1,8 +1,8 @@
 # pgl.yoyo.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Last Converted - 27.09.2018
-# Total Domains - 2562
+# Last Converted - 28.09.2018
+# Total Domains - 2561
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -1563,7 +1563,6 @@
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
 0.0.0.0 imonitor.nethost.cz
-0.0.0.0 imprese.cz
 0.0.0.0 impressionmedia.cz
 0.0.0.0 imrworldwide.com
 0.0.0.0 inaccused.com

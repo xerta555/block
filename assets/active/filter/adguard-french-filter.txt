@@ -1,8 +1,8 @@
 # adguard-french-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-french-filter.txt
-# Last Converted - 27.09.2018
-# Total Domains - 5579
+# Last Converted - 28.09.2018
+# Total Domains - 5578
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -1157,7 +1157,6 @@
 0.0.0.0 bonnymansabanaseca.com
 0.0.0.0 bonplan1.com
 0.0.0.0 bonplan5.com
-0.0.0.0 booking.com
 0.0.0.0 booksuper.info
 0.0.0.0 boonsex.com
 0.0.0.0 booraq.org
