@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/abpindo+easylist.txt
 # Last Converted - 28.09.2018
-# Total Domains - 25042
+# Total Domains - 25043
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -3238,6 +3238,7 @@
 0.0.0.0 aon-bet.com
 0.0.0.0 aonbet.com
 0.0.0.0 aoncash.com
+0.0.0.0 aonxktnn.com
 0.0.0.0 aoqneyvmaz.com
 0.0.0.0 aoqpvhstmc.bid
 0.0.0.0 aoqviogrwckf.com

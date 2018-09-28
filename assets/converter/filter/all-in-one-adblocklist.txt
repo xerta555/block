@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
 # Last Converted - 28.09.2018
-# Total Domains - 63466
+# Total Domains - 63468
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: CC BY-NC-SA 4.0; https://energized.pro/license
@@ -34351,6 +34351,7 @@
 0.0.0.0 lppm.unida.gontor.ac.id
 0.0.0.0 lppoblhorbrf.com
 0.0.0.0 lppyumumznf.bid
+0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lptracker.ru
 0.0.0.0 lpwre.top
 0.0.0.0 lpwvdgfo.com
@@ -63410,6 +63411,7 @@
 0.0.0.0 zxbjgrxbcgrp.com
 0.0.0.0 zxciuniqhweizsds.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxjmybvewmso.com
 0.0.0.0 zxl1102.000webhostapp.com
 0.0.0.0 zxmkvelyft.bid
